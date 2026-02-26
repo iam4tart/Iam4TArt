@@ -21,4 +21,4 @@ Some stuff I built:
 Fun Facts:
 - I am a 100% coffee guy
 - I love being in nature's quiet spaces
-- Hobbies: music production (writing scores for film music) & exploring immersive tech
+- Hobbies: music production (writing scores for film music) & reading niche blogs
