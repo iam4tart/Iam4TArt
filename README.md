@@ -19,6 +19,6 @@ Some stuff I built:
 ---
 
 Fun Facts:
-- I am a 100% coffee guy
-- I love being in nature's quiet spaces
-- Hobbies: music production (writing scores for film music) & reading niche blogs
+- I love jalapenos on everything
+- I love 8-bit pixel art
+- Hobbies: music production (writing scores for film music) & reading niche tech blogs
