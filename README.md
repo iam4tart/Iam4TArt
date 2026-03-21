@@ -12,8 +12,8 @@ These days I’m focused on:
 
 Some stuff I built:
 - [Audio Artifact Detection](https://github.com/iam4tart/Audio-Artifact-Detection) – Detecting multiple audio quality issues in realtime AV stream
-- [Loudness QC Tool](https://github.com/iam4tart/Loudness-QC-Tool) – Automated audio loudness checks using ITU standards
-- [Crossfaderr](https://github.com/iam4tart/Crossfaderr) – Upload audios and draw start/end fades to generate mixed final audio
+<!-- - [Loudness QC Tool](https://github.com/iam4tart/Loudness-QC-Tool) – Automated audio loudness checks using ITU standards -->
+<!-- - [Crossfaderr](https://github.com/iam4tart/Crossfaderr) – Upload audios and draw start/end fades to generate mixed final audio -->
 - [Arya](https://github.com/iam4tart/Project-Arya) – Analyzing stress in situations leveraging speech and ambient noise, optimized for Indian accents
 
 ---
