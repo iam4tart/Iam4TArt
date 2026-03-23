@@ -1,5 +1,5 @@
 Hi there! 👋
-I’m Aarush, an Audio Interaction Engineer based in India. I love creating immersive audio experiences for consumer homes, industries, and media—guided by human‑centered design and keeping things impactful yet simple.
+I’m Aarush, an Audio AI Engineer based in India. I love creating immersive audio experiences for consumer homes, industries, and media—guided by human‑centered design and keeping things impactful yet simple.
 
 These days I’m focused on:
 - Audio & Digital Signal Processing (DSP)
