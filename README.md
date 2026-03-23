@@ -21,4 +21,4 @@ Some stuff I built:
 Fun Facts:
 - I love jalapenos on everything
 - I love 8-bit pixel art
-- Hobbies: music production (writing scores for film music) & reading niche tech blogs
+- Hobbies: music production (writing scores for film music)
