@@ -1,12 +1,6 @@
 Hi there! 👋
-I’m Aarush, an Audio AI Engineer based in India. I love creating immersive audio experiences for consumer homes, industries, and media—guided by human‑centered design and keeping things impactful yet simple.
 
-These days I’m focused on:
-- Audio & Digital Signal Processing (DSP)
-- Spatial Computing
-- Haptics
-- Machine Learning
-- Automation & production workflows
+I’m Aarush, a backend-focused engineer based in India, working on real-time systems and applied machine learning.
 
 ---
 
@@ -15,6 +9,7 @@ Some stuff I built:
 - [Loudness QC Tool](https://github.com/iam4tart/Loudness-QC-Tool) – Automated audio loudness checks using ITU standards
 <!-- - [Crossfaderr](https://github.com/iam4tart/Crossfaderr) – Upload audios and draw start/end fades to generate mixed final audio -->
 - [Arya](https://github.com/iam4tart/Project-Arya) – Analyzing stress in situations leveraging speech and ambient noise, optimized for Indian accents
+- [BareBones.ML (active)](https://github.com/iam4tart/barebones-ml) - 3D data primitives and ML components with C++ and PyTorch bindings
 
 ---
 
