@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m Aarush, a backend-focused engineer based in India, working on real-time systems and applied machine learning.
+I’m Aarush, a systems-focused engineer based in India, working on real-time systems and applied machine learning.
 
 ---
 
